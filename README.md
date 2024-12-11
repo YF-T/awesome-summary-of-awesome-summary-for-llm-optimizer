@@ -22,4 +22,6 @@ This is a good model interpretability summary help researchers to find insights.
 
 [github repository](https://github.com/zcli-charlie/Awesome-KV-Cache)
 
+[github repository](https://github.com/Zefan-Cai/Awesome-LLM-KV-Cache)
+
 This is a good summary only for KV-Cache
