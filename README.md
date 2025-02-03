@@ -18,7 +18,7 @@ This is a good quantization method summary suitable for searching for the **late
 
 This is a good model interpretability summary help researchers to find insights.
 
-## awqsome KV-Cache speedup
+## awesome KV-Cache speedup
 
 [github repository](https://github.com/zcli-charlie/Awesome-KV-Cache)
 
@@ -27,3 +27,7 @@ This is a good model interpretability summary help researchers to find insights.
 [github repository](https://github.com/October2001/Awesome-KV-Cache-Compression)
 
 This is a good summary only for KV-Cache
+
+## awesome efficient llm
+
+[github repository](https://github.com/Efficient-ML/Awesome-Efficient-LLM-Diffusion)
